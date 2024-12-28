@@ -1,0 +1,27 @@
+{
+    "@context": {
+        "musici": "http://prosopography.org/musici/",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "proso": "http://prosopography.org/#",
+        "label": "rdfs:label",
+        "persons-ref": {
+            "@id": "proso:person",
+            "@type": "@id"
+        },
+        "statements": "proso:statements",
+        "source": "musici:isDescribedBy",
+        "label_scope": "musici:sourceScope",
+        "StatementType": "musici:statementType",
+        "statementText": "proso:statementText",
+        "source_id": {
+            "@id": "musici:inSource",
+            "@type": "@id"
+        },
+        "date": "https://prosopography.org/musici/date#",
+        "name": "https://prosopography.org/musici/name#",
+        "orgName": "https://prosopography.org/musici/orgName#",
+        "persName": "https://prosopography.org/musici/persName#",
+        "placeName": "https://prosopography.org/musici/placeName#"
+    }
+}
