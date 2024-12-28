@@ -18,10 +18,10 @@
             "@id": "musici:inSource",
             "@type": "@id"
         },
-        "date": "https://prosopography.org/musici/date#",
-        "name": "https://prosopography.org/musici/name#",
-        "orgName": "https://prosopography.org/musici/orgName#",
-        "persName": "https://prosopography.org/musici/persName#",
-        "placeName": "https://prosopography.org/musici/placeName#"
+        "date": "https://prosopography.org/musici/date/",
+        "name": "https://prosopography.org/musici/name/",
+        "orgName": "https://prosopography.org/musici/orgName/",
+        "persName": "https://prosopography.org/musici/persName/",
+        "placeName": "https://prosopography.org/musici/placeName/"
     }
 }
